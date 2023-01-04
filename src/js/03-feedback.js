@@ -1,4 +1,4 @@
-import throttle from 'lodash.throttle';
+//import throttle from 'lodash.throttle';
 
 const LOCAL = 'selectedFilters';
 const formEl = document.querySelector('.feedback-form');
